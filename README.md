@@ -20,7 +20,6 @@ Add the scripts in the header or footer before jquery.
 Example:
 <html>
 	<head>
-		<title>Text Character Limit</title>
 		<script src="https://code.jquery.com/jquery-3.1.1.min.js"></script>
 		<script src="https://marlanuengo.github.io/jqEasyCharCounterX/jquery.jqEasyCharCounter.min.js"></script>
 	</head>
