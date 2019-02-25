@@ -1,4 +1,4 @@
-jqEasyCharCounterX is the same version of jqEasyCharCounter. The only difference isthe "Characters" text has been removed.
+jqEasyCharCounterX is the same version of jqEasyCharCounter. The only difference is the "Characters" text has been removed.
 All credits to the jqeasy.
 http://www.jqeasy.com/jquery-character-counter/
 
