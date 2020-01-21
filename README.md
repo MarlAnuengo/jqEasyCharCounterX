@@ -6,7 +6,7 @@ Uses:
 Character limit for ecommerce product personalisation like PrestaShop, Magento 2 and BigCommerce. You need to customize the script according to the css ID and Class in your website template.
 
 Add the scripts in the header or footer before jquery.
-<script src="https://marlanuengo.github.io/jqEasyCharCounterX/jquery.jqEasyCharCounter.min.js"></script>
+<script src="https://donkza.github.io/jqEasyCharCounterX/jquery.jqEasyCharCounter.min.js"></script>
 <script>
   $(document).ready(function () {
     $('div .jqEasyCounterMsg').show();
@@ -21,7 +21,7 @@ Example:
 <html>
 	<head>
 		<script src="https://code.jquery.com/jquery-3.1.1.min.js"></script>
-		<script src="https://marlanuengo.github.io/jqEasyCharCounterX/jquery.jqEasyCharCounter.min.js"></script>
+		<script src="https://donkza.github.io/jqEasyCharCounterX/jquery.jqEasyCharCounter.min.js"></script>
 	</head>
 	<body>
 		<div class="jqEasyCounter">
